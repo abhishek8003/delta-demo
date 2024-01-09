@@ -1,2 +1,2 @@
 # delta-demo
-demo for learn from apna college
+demo for learn from apna college.
